@@ -5,7 +5,7 @@ configuration
  "keddea":24,
  "deeraf":45,
  "jiankan":1,
- "autoShowPrivacypolicy":"autoShowPrivacypolicy",
+ "autoShowPrivacypolicy":"setInterface",
  "ceshilai":"ceshilaiceshilai",
  "RoskakoriVoi":"http://www.qhcftong.com/download.html",
  "Konfiguration":"構成",
