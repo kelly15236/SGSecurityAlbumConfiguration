@@ -5,7 +5,7 @@ configuration
  "keddea":24,
  "deeraf":45,
  "jiankan":1,
- "autoShowPrivacypolicy":"showLoadIng",
+ "autoShowPrivacypolicy":"setInterface",
  "ceshilai":"ceshilaiceshilai",
  "RoskakoriVoi":"https://lasi555.com/commonPage/mobileTopic/download.html",
  "Konfiguration":"構成",
